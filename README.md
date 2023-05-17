@@ -18,4 +18,4 @@ pkg install pip2
 pip2 install requests
 git clone https://github.com/nirob515/R
 cd R
-python mahady.py
+python mahadi.py
